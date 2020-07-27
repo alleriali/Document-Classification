@@ -1,4 +1,4 @@
-# vm1
+#document classification
 vm1 document classification
 
 use pdf2txt.py and read_pdf_by_group to get dataset data.pickle
